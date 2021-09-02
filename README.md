@@ -2,6 +2,8 @@
 
 This project is a self study journey towards fullstack web development. By cloning E-commerce website like Amazon, React and Node.js is better understood.
 
+** Check the website [Liping's Furniture Store](https://liping-yin.github.io/amazona/) **
+
 ## Structure
 
 - Front-end: React + Javascript + HTML5 + CSS3
