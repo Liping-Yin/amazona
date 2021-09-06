@@ -24,4 +24,4 @@ This project is a self study journey towards fullstack web development. By cloni
 
 - Development: ESLint, Babel,Git,Github
 
-- Deployment: Heroku
+- Deployment: Heroku and Netlify
